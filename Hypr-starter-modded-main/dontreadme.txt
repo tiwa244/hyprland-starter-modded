@@ -1,0 +1,1 @@
+local_brainrot = hahahaha kick
