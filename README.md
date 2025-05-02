@@ -1,1 +1,3 @@
-# hyprland-starter-modded
+here a command to install
+sudo pacman -S git 
+git clone {waiting}
